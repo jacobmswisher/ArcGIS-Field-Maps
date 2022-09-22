@@ -4,6 +4,8 @@ Welcome to the curriculum page for the GIS in the Field: Getting Started with Ar
 
 This workshop provides an introduction to ESRI's ArcGIS Field Maps, a mobile application that allows users to create point, line, and polygon features and mark up maps in the field. ArcGIS Field Maps is a powerful tool that allows you to easily create spatial data on the go with your mobile device. In the course of just an hour, this workshop will prepare you to bring ArcGIS Field Maps along on your next research project and create spatial data wherever you go.
 
+Time: 1 hour
+
 **Note: This workshop provides a very brief walkthrough of creating maps and layers in ArcGIS Online. If you would like more comprehensive instruction for ArcGIS Online, consider checking out the curriculum for the [Mapping with ArcGIS Online Workshop](https://github.com/jacobmswisher/ArcGIS-Online).**
 
 This resource is licensed under a [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
