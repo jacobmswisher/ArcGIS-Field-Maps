@@ -16,7 +16,7 @@ After completing this workshop, you will be able to:
 
 1. Use ArcGIS Online to configure a data collection environment for ArcGIS Field Maps
 2. Create spatial data with ArcGIS Field Maps
-3. Procces data created in ArcGIS Field Maps with ArcGIS Online
+3. Proccess data created in ArcGIS Field Maps with ArcGIS Online
 
 ## Table of Contents
 
