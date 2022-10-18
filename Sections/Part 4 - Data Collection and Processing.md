@@ -9,7 +9,7 @@ Now that you've configured a data collection environment (your saved map) and a 
 To collect data with ArcGIS Field Maps, begin by selecting the data collection environment you wish to work in. For this workshop, you'll be collecting data with the Field Maps Workshop map you created in ArcGIS Online. Select the Field Maps Workshop map from your saved maps to get started.
 
 <p align="center">
-  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%2012.png">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%2012.jpg">
 </p>
 
 ### Step 2: Create a Feature
