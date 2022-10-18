@@ -1,8 +1,3 @@
-# To do
-
-- add figure links
-
-
 # Getting Started with ArcGIS Field Maps
 
 Welcome to the curriculum page for the Getting Started with ArcGIS Collector workshop.

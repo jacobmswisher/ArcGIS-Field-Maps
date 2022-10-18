@@ -16,16 +16,14 @@ To collect data with ArcGIS Field Maps, begin by selecting the data collection e
 
 Once you have opened up the Field Maps Workshop map in ArcGIS Field Maps, you can manage the map and begin creating data using the Field Maps interface. Take a moment to explore the options and tools available to you in ArcGIS Field Maps and consult the infographic below if needed.
 
-create infographic with options
 <p align="center">
-  <img src="Figure 13">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%2013.jpg">
 </p>
 
-Now that you have taken a minute to peruse ArcGIS Field Maps, it's time to create your first feature in the field. To create a point feature, touch the create feature button at the bottom-right corner of ArcGIS Field Maps.
+Now that you have taken a minute to peruse ArcGIS Field Maps, it's time to create your first feature in the field. To create a point feature, touch the create feature button at the bottom-right corner of ArcGIS Field Maps. *The example below is taken from the Hesburgh Library at the University of Notre Dame.*
 
-Creating point on campus
 <p align="center">
-  <img src="Figure 14">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%2014.jpg">
 </p>
 
 Then, populate the fields for the new feature and touch the add point button when you are finished.
@@ -33,7 +31,7 @@ Then, populate the fields for the new feature and touch the add point button whe
 *Note: The add point button will switch between being red and blue to indicate the strength of your GPS signal based on the accuracy parameters set in the ArcGIS Field Maps settings. Red indicates that signal is less accurate than required based on your defined parameters. The default accuracy is 30ft.*
 
 <p align="center">
-  <img src="Figure 15">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%2015.jpg">
 </p>
 
 Congratulations, you have succesfully created your first feature with ArcGIS Field Maps!
@@ -44,9 +42,8 @@ Fortunately, ArcGIS Field Maps also allows you to create features at locations t
 
 To practice creating a feature with the dropped pin method, navigate to one of the lakes on Notre Dame's campus. Then, create a dropped pin and collect the pin as a new point feature.
 
-creating points where you cant go
 <p align="center">
-  <img src="Figure 16">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%2016.jpg">
 </p>
 
 Congratulations! You now know how to collect features anywhere on the map using ArcGIS Field Maps.
