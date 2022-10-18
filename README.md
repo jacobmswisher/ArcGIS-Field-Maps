@@ -1,8 +1,8 @@
 # Getting Started with ArcGIS Field Maps
 
-Welcome to the curriculum page for the Getting Started with ArcGIS Collector workshop.
+Welcome to the curriculum page for the Getting Started with ArcGIS Field Maps Workshop.
 
-This workshop provides an introduction to ESRI's ArcGIS Field Maps, a mobile application that allows users to create point, line, and polygon features and mark up maps in the field. ArcGIS Field Maps is a powerful tool that allows you to easily create spatial data on the go with your mobile device. In the course of just an hour, this workshop will prepare you to bring ArcGIS Field Maps along on your next research project and create spatial data wherever you go.
+This workshop provides an introduction to ESRI's ArcGIS Field Maps, a mobile application that allows users to easily create point, line, and polygon features and mark up maps in the field. In the course of just an hour, this workshop will prepare you to bring ArcGIS Field Maps along on your next research project and create spatial data wherever you go.
 
 Time: 1 hour
 
@@ -16,7 +16,7 @@ After completing this workshop, you will be able to:
 
 1. Use ArcGIS Online to configure a data collection environment for ArcGIS Field Maps
 2. Create spatial data with ArcGIS Field Maps
-3. Proccess data created in ArcGIS Field Maps with ArcGIS Online
+3. Process data created in ArcGIS Field Maps with ArcGIS Online
 
 ## Table of Contents
 
