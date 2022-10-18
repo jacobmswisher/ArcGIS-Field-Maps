@@ -1,8 +1,7 @@
 # To do
 
 - add figure links
-- test z values and check elevation
-- add add layer refresher link
+
 
 # Getting Started with ArcGIS Field Maps
 
@@ -26,10 +25,10 @@ After completing this workshop, you will be able to:
 
 ## Table of Contents
 
-1. [ArcGIS Field Maps - An Overview](#part-1-arcgis-field-maps---an-overview)
-2. [Configuring a Data Collection Environment for ArcGIS Field Maps](#part-2-creating-maps-and-layers-in-arcgis-online)
-3. [Configuring Your Collection Device](#part-3-configuring-your-collection-device)
-4. [Data Collection and Processing](#part-4-data-collection)
-5. [Resources](#part-6-resources)
+1. [ArcGIS Field Maps - An Overview](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%201%20-%20ArcGIS%20Field%20Maps%20-%20An%20Overview.md)
+2. [Configuring a Data Collection Environment for ArcGIS Field Maps](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%202%20-%20Configuring%20a%20Data%20Collection%20Environment%20for%20ArcGIS%20Field%20Maps.md)
+3. [Configuring Your Collection Device](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%203%20-%20Configuring%20Your%20Collection%20Device.md)
+4. [Data Collection and Processing](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%204%20-%20Data%20Collection%20and%20Processing.md)
+5. [Resources](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%205%20-%20Resources.md)
 
-[Get Started >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%201%20-%20Geographic%20Information%20Systems%20-%20An%20Overview.md)  
+[Get Started >>>](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%201%20-%20ArcGIS%20Field%20Maps%20-%20An%20Overview.md)  

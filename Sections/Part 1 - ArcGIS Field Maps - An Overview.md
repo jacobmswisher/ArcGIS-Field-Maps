@@ -1,4 +1,4 @@
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/d726a609d4010ccc539a2a25231ac56886363520/README.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%202%20-%20Getting%20to%20Know%20ArcGIS%20Online.md)  
+[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/7aeb319992a879b36c641edc930b4d1a08561307/README.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%202%20-%20Configuring%20a%20Data%20Collection%20Environment%20for%20ArcGIS%20Field%20Maps.md)  
 
 ## Part 1: ArcGIS Field Maps - An Overview
 
@@ -6,4 +6,4 @@ ArcGIS Field Maps is a mobile application that allows users to create spatial da
 
 Using ArcGIS Field Maps with the built-in GPS reciever on most mobile phones will allow you to create features that are typically accurate within about 5 meters under open sky, though accuracy diminshes when you are inside buildings or near bridges and trees. If you require greater accuracy for your research project, consider using ArcGIS Field Maps alongside and separate GPS reciever that, when paired with your mobile phone, allows you to create spatial data that is accurate within a radius of 1 meter or less. You can find a list of smartphone compatible GPS recievers for use with ArcGIS Field Maps [here](https://doc.arcgis.com/en/field-maps/android/help/high-accuracy-data-collection.htm).
 
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/d726a609d4010ccc539a2a25231ac56886363520/README.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%202%20-%20Getting%20to%20Know%20ArcGIS%20Online.md)  
+[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/7aeb319992a879b36c641edc930b4d1a08561307/README.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%202%20-%20Configuring%20a%20Data%20Collection%20Environment%20for%20ArcGIS%20Field%20Maps.md)

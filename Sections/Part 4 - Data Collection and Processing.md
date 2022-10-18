@@ -1,4 +1,4 @@
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/d726a609d4010ccc539a2a25231ac56886363520/README.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%202%20-%20Getting%20to%20Know%20ArcGIS%20Online.md)  
+[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%203%20-%20Configuring%20Your%20Collection%20Device.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%205%20-%20Resources.md)  
 
 ## Part 4: Data Collection and Processing
 
@@ -9,7 +9,7 @@ Now that you've configured a data collection environment (your saved map) and a 
 To collect data with ArcGIS Field Maps, begin by selecting the data collection environment you wish to work in. For this workshop, you'll be collecting data with the Field Maps Workshop map you created in ArcGIS Online. Select the Field Maps Workshop map from your saved maps to get started.
 
 <p align="center">
-  <img src="Figure 12">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%2012.png">
 </p>
 
 ### Step 2: Create a Feature
@@ -65,4 +65,4 @@ Take a minute to return to the map you used to create data with ArcGIS Field Map
 
 Congratulations, you have successfully created spatial data in the field with ArcGIS Field Maps and ArcGIS Online!
 
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/d726a609d4010ccc539a2a25231ac56886363520/README.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%202%20-%20Getting%20to%20Know%20ArcGIS%20Online.md)  
+[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%203%20-%20Configuring%20Your%20Collection%20Device.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%205%20-%20Resources.md)  

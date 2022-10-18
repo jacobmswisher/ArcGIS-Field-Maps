@@ -1,4 +1,4 @@
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/d726a609d4010ccc539a2a25231ac56886363520/README.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%202%20-%20Getting%20to%20Know%20ArcGIS%20Online.md)  
+[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%201%20-%20ArcGIS%20Field%20Maps%20-%20An%20Overview.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%203%20-%20Configuring%20Your%20Collection%20Device.md)  
 
 ## Part 2: Configuring a Data Collection Environment for ArcGIS Field Maps
 
@@ -11,7 +11,7 @@ In Part 2 of this workshop, you will walk through the process of using ArcGIS On
 To start working in ArcGIS Online, head to the sign-in page at [https://www.arcgis.com](https://www.arcgis.com).
 
 <p align="center">
-  <img src="FIGURE 1">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%201.JPG">
 </p>
 
 At the sign-in page, you'll need to log on with the organizational login assigned to you by your system administrator. **For ND users, your username is your own version of netid_NotreDame. Just substitute your netid into the template.** If you do not have an organizational login, you can create a free account which will give you access to a limited number of features on ArcGIS Online.
@@ -23,7 +23,7 @@ After signing into ArcGIS Online, you'll first want to create an editable featur
 To create a new, editable feature layer, navigate to the Content Tab, click the new item button, and select the option to create a new feature layer. 
 
 <p align="center">
-  <img src="Figure 2">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%202.JPG">
 </p>
 
 Select the option to define your own layer, then click the next button.
@@ -35,7 +35,7 @@ In the create a feature layer window, assign your new layer a name (ex. ND_place
 When collecting data in the field, it is generally a good idea to keep track of GPS metadata and to enable Z-values if you want to know the elevation of the features you create with ArcGIS Field Maps. Enable both of these options, then click the next button.
 
 <p align="center">
-  <img src="Figure 3">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%203.jpg">
 </p>
 
 Finally, update the metadata and tags as needed for ND_places_points. Then, save the new feature layer.
@@ -51,13 +51,13 @@ Let's begin by adding a couple of fields (attributes) to the ND_places_points fe
 To add fields, start by clicking navigating to the data tab from the content page for the ND_places_points feature layer.
 
 <p align="center">
-  <img src="Figure 4">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%204.jpg">
 </p>
 
 In the upper-right hand corner, use the fields button to switch from the table view to the field list view. Then, click the add button on the left to create your first field.
 
 <p align="center">
-  <img src="Figure 5">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%205.jpg">
 </p>
 
 Next, complete the add field form to create a field that will capture the names of the features in the ND_places_points feature class. Use the table below as a guide and, after you have completed the form, check your add field form against the image below the table.
@@ -106,7 +106,7 @@ Next, complete the add field form to create a field that will capture the names 
 <br>
 
 <p align="center">
-  <img src="Figure 6">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%206.JPG">
 </p>
 
 After adding a field for the name of features in ND_places_points, add a second field that will contain a short, textual description about each point feature.
@@ -120,7 +120,7 @@ After creating fields for your new feature layer, you need to make sure that the
 Navigate to the settings tab for ND_places_points. Then, scroll down the page until you find the editing settings.
 
 <p align="center">
-  <img src="Figure 7">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%207.JPG">
 </p>
 
 Confirm that the enable editing box is checked and that ND_places_points allows all kinds of editing (Add, Delete, Update) for both attributes and geometry. If you needed to change any settings, you also need to save your changes at the bottom of the page. Save if needed and then navigate back to the overview tab for ND_places_points.
@@ -150,7 +150,7 @@ In some cases, you may want to configure a form for the feature layers you plan 
 To create a form for ND_places_points, begin by clicking on the forms tool on the right-hand toolbar.
 
 <p align="center">
-  <img src="Figure 8">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%208.jpg">
 </p>
 
 In the configure form tool, you can drag and drop fields to configure your form or, if you have a small number of fields, simply click the add all button to add your fields to the form.
@@ -158,7 +158,7 @@ In the configure form tool, you can drag and drop fields to configure your form 
 Add the place and description fields to the form, rearrange the fields as needed, then click on the place field to bring up the option to manage the properties for how that field will appear in the form.
 
 <p align="center">
-  <img src="Figure 9">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%209.jpg">
 </p>
 
 Managing properties allows you to customize how Field Maps users will engage with your custom form. Adjust the properties for both the place and description fields as needed. Then, click OK to create the form for ND_places_points.
@@ -168,9 +168,9 @@ Managing properties allows you to customize how Field Maps users will engage wit
 Finally, use the save and open tool on the left-hand toolbar to save the map with ND_places_points to your content folder, which will allow you use the map for data collection in ArcGIS Field Maps.
 
 <p align="center">
-  <img src="Figure 10">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%2010.jpg">
 </p>
 
 **Note: If you are working on a collaborative project, you will need to manage the sharing permissions for your map in the content tab before heading into the field.**
 
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/d726a609d4010ccc539a2a25231ac56886363520/README.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%202%20-%20Getting%20to%20Know%20ArcGIS%20Online.md)  
+[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%201%20-%20ArcGIS%20Field%20Maps%20-%20An%20Overview.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%203%20-%20Configuring%20Your%20Collection%20Device.md)  

@@ -1,4 +1,4 @@
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/d726a609d4010ccc539a2a25231ac56886363520/README.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%202%20-%20Getting%20to%20Know%20ArcGIS%20Online.md)  
+[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%202%20-%20Configuring%20a%20Data%20Collection%20Environment%20for%20ArcGIS%20Field%20Maps.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%204%20-%20Data%20Collection%20and%20Processing.md)  
 
 ## Part 3: Configuring Your Collection Device
 
@@ -13,9 +13,9 @@ To get started, head to the app store and download and install ArcGIS Field Maps
 Next, open ArcGIS Field Maps on your device and select the option to sign in in with ArcGIS Online to sign into Field Maps with your organizational account.
 
 <p align="center">
-  <img src="Figure 11">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%2011.jpg">
 </p>
 
 After signing in, check to make sure that your newly created map appears in the My Maps list in the ArcGIS Field Maps application. If so, you are ready to head out into the field!
 
-[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Online/blob/d726a609d4010ccc539a2a25231ac56886363520/README.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Online/blob/main/Sections/Part%202%20-%20Getting%20to%20Know%20ArcGIS%20Online.md)  
+[<<< Previous](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%202%20-%20Configuring%20a%20Data%20Collection%20Environment%20for%20ArcGIS%20Field%20Maps.md) | [Next >>>](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%204%20-%20Data%20Collection%20and%20Processing.md)  
