@@ -6,7 +6,7 @@ This workshop provides an introduction to ESRI's ArcGIS Field Maps, a mobile app
 
 Time: 1 hour
 
-**Note: This workshop provides a very brief walkthrough of creating maps and layers in ArcGIS Online. If you would like more comprehensive instruction for ArcGIS Online before diving into ArcGIS Field Maps, consider exploring the curriculum for the [Mapping with ArcGIS Online Workshop](https://github.com/jacobmswisher/ArcGIS-Online).**
+**Note: This workshop provides a brief walkthrough of creating maps and layers in ArcGIS Online. If you would like more comprehensive instruction for ArcGIS Online before diving into ArcGIS Field Maps, consider exploring the curriculum for the [Mapping with ArcGIS Online Workshop](https://github.com/jacobmswisher/ArcGIS-Online).**
 
 This resource is licensed under a [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
