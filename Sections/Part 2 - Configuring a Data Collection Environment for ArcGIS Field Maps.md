@@ -32,7 +32,7 @@ For this demonstration, we are going to create an editable feature layer that vi
 
 In the create a feature layer window, assign your new layer a name (ex. ND_places_points) and make sure the geometry is set to point layer. 
 
-When collecting data in the field, it is generally a good idea to keep track of GPS metadata and to enable Z-values if you want to know the elevation of the features you create with ArcGIS Field Maps. Enable both of these options, then click the next button.
+When collecting data in the field, it is generally a good idea to keep track of GPS metadata and to enable Z-values if you want to know the altitude of the features you create with ArcGIS Field Maps. Enable both of these options, then click the next button.
 
 <p align="center">
   <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%203.jpg">
@@ -43,12 +43,12 @@ Finally, update the metadata and tags as needed for ND_places_points. Then, save
 ### Step 2: Add Fields
 
 After creating the ND_places_points feature layer, you need to finish setting up the layer before creating new features in ArcGIS Field Maps. This involves two steps:
-1. Adding fields (attributes)
+1. Adding fields
 2. Making the feature layer "editable"
 
-Let's begin by adding a couple of fields (attributes) to the ND_places_points feature layer to help document the name of each place and the date that you visited.
+Let's begin by adding a couple of fields to the ND_places_points feature layer to help document the name of each place and the date that you visited.
 
-To add fields, start by clicking navigating to the data tab from the content page for the ND_places_points feature layer.
+To add fields, start by navigating to the data tab from the content page for the ND_places_points feature layer.
 
 <p align="center">
   <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%204.jpg">
@@ -115,7 +115,7 @@ After adding a field for the name of features in ND_places_points, add a second 
 
 ### Step 3: Make the Feature Layer Editable
 
-After creating fields for your new feature layer, you need to make sure that the feature layer "editable" before you can create new features. Editing settings are managed in the settings tab for your feature layer.
+After creating fields for your new feature layer, you need to make sure that the feature layer is "editable" before you can create new features. Editing settings are managed in the settings tab for your feature layer.
 
 Navigate to the settings tab for ND_places_points. Then, scroll down the page until you find the editing settings.
 
@@ -123,7 +123,7 @@ Navigate to the settings tab for ND_places_points. Then, scroll down the page un
   <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%207.JPG">
 </p>
 
-Confirm that the enable editing box is checked and that ND_places_points allows all kinds of editing (Add, Delete, Update) for both attributes and geometry. If you needed to change any settings, you also need to save your changes at the bottom of the page. Save if needed and then navigate back to the overview tab for ND_places_points.
+Confirm that the enable editing box is checked and that ND_places_points allows all kinds of editing (Add, Delete, Update) for both attributes and geometry. If you changed any settings, you will need to save your changes at the bottom of the page. Save if needed and then navigate back to the overview tab for ND_places_points.
 
 *Tip: The editing settings also allow you to manage how collaborators can interact with your feature layer. These settings can be helpful for managing group work on GIS projects.*
 
@@ -133,7 +133,7 @@ If needed, update the metadata (description, terms of use, etc.) and sharing per
 
 ### Step 5: Create a New Map and Add Feature Layer(s)
 
-ArcGIS Field Maps allows you to collect data within a map saved in ArcGIS Online. To create and save a map for data collection, begin by navigating to the Map Viewer in ArcGIS Online.
+ArcGIS Field Maps allows you to collect data for feature layers via a map saved in ArcGIS Online. To create and save a map for data collection, begin by navigating to the Map Viewer in ArcGIS Online.
 
 Once you are in the Map Viewer you will need to complete the following operations before you head out into the field with ArcGIS Field Maps:
 1. Add the layer(s) you want to use for data collection to your map.
@@ -153,7 +153,7 @@ To create a form for ND_places_points, begin by clicking on the forms tool on th
   <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%208.jpg">
 </p>
 
-In the configure form tool, you can drag and drop fields to configure your form or, if you have a small number of fields, simply click the add all button to add your fields to the form.
+In the forms tool, you can drag and drop fields to configure your form or, if you have a small number of fields, simply click the add all button to add your fields to the form.
 
 Add the place and description fields to the form, rearrange the fields as needed, then click on the place field to bring up the option to manage the properties for how that field will appear in the form.
 
@@ -161,7 +161,7 @@ Add the place and description fields to the form, rearrange the fields as needed
   <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%209.jpg">
 </p>
 
-Managing properties allows you to customize how Field Maps users will engage with your custom form. Adjust the properties for both the place and description fields as needed. Then, click OK to create the form for ND_places_points.
+Managing properties allows you to customize how Field Maps users will engage with your custom form. Adjust the properties for both the place and description fields if needed. Then, click OK to create the form for ND_places_points.
 
 ### Step 7: Save the Map
 
