@@ -14,13 +14,13 @@ To collect data with ArcGIS Field Maps, begin by selecting the data collection e
 
 ### Step 2: Create a Feature
 
-Once you have opened up the Field Maps Workshop map in ArcGIS Field Maps, you can manage the map and begin creating data using the Field Maps interface. Take a moment to explore the options and tools available to you in ArcGIS Field Maps and consult the infographic below if needed.
+Once you have opened up the Field Maps Workshop map in ArcGIS Field Maps, you can manage the map and begin creating data using the Field Maps interface. Take a moment to peruse the options and tools available to you in ArcGIS Field Maps and consult the infographic below if needed.
 
 <p align="center">
   <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%2013.jpg">
 </p>
 
-Now that you have taken a minute to peruse ArcGIS Field Maps, it's time to create your first feature in the field. To create a point feature, touch the create feature button at the bottom-right corner of ArcGIS Field Maps. *The example below is taken from the Hesburgh Library at the University of Notre Dame.*
+Now that you explored ArcGIS Field Maps, it's time to create your first feature in the field. To create a point feature, touch the create feature button at the bottom-right corner of ArcGIS Field Maps. *The example below is taken from the Hesburgh Library at the University of Notre Dame.*
 
 <p align="center">
   <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%2014.jpg">
@@ -35,6 +35,8 @@ Then, populate the fields for the new feature and touch the add point button whe
 </p>
 
 Congratulations, you have succesfully created your first feature with ArcGIS Field Maps!
+
+### Step 3: Create a Feature with Dropped Pins
 
 The feature creation tool locates features at the position of your mobile device (or paired GPS reciever), but what if you needed to create a feature in a place you cannot easily position yourself, such as in the middle of a lake?
 
@@ -54,11 +56,11 @@ Congratulations! You now know how to collect features anywhere on the map using 
 
 *ND users can also complete this exercise by searching for and working in the ArcGIS Field Maps Workshop Sandbox map, which has layers for creating point, line, and polygon features.*
 
-### Step 3: Return to ArcGIS Online
+### Step 4: Return to ArcGIS Online
 
 After you have finished creating features with ArcGIS Field Maps, you will be able to access your newly created data using ArcGIS Online. You can process your data via ArcGIS Online's Map Viewer or, alternatively, by downloading a copy of the feature layer for use in other GIS platforms. 
 
-Take a minute to return to the map you used to create data with ArcGIS Field Maps and examine the changes to your feature layer(s).
+Take a minute to return to the map you used to create data with ArcGIS Field Maps and examine the changes to your feature layer(s) in the Map Viewer.
 
 Congratulations, you have successfully created spatial data in the field with ArcGIS Field Maps and ArcGIS Online!
 
