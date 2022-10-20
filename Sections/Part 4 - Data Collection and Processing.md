@@ -26,9 +26,9 @@ Now that you explored ArcGIS Field Maps, it's time to create your first feature 
   <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%2014.jpg">
 </p>
 
-Then, populate the fields for the new feature and touch the add point button when you are finished.
+Then, populate the fields for the new feature and touch the submit button when you are finished.
 
-*Note: The add point button will switch between being red and blue to indicate the strength of your GPS signal based on the accuracy parameters set in the ArcGIS Field Maps settings. Red indicates that signal is less accurate than required based on your defined parameters. The default accuracy is 30ft.*
+*Note: The update point button will switch between being red and blue to indicate the strength of your GPS signal based on the accuracy parameters set in the ArcGIS Field Maps settings. Red indicates that signal is less accurate than required based on your defined parameters. The default accuracy is 30ft.*
 
 <p align="center">
   <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%2015.jpg">
