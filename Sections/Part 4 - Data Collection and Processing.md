@@ -17,7 +17,7 @@ To collect data with ArcGIS Field Maps, begin by selecting the data collection e
 Once you have opened up the Field Maps Workshop map in ArcGIS Field Maps, you can manage the map and begin creating data using the Field Maps interface. Take a moment to peruse the options and tools available to you in ArcGIS Field Maps and consult the infographic below if needed.
 
 <p align="center">
-  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%2013.jpg">
+  <img src="https://github.com/jacobmswisher/images/blob/main/ArcGIS%20Field%20Maps/Figure%2013a.jpg">
 </p>
 
 Now that you explored ArcGIS Field Maps, it's time to create your first feature in the field. To create a point feature, touch the create feature button at the bottom-right corner of ArcGIS Field Maps. *The example below is taken from the Hesburgh Library at the University of Notre Dame.*
