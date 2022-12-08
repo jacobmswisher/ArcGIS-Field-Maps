@@ -26,6 +26,4 @@ After completing this workshop, you will be able to:
 4. [Data Collection and Processing](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%204%20-%20Data%20Collection%20and%20Processing.md)
 5. [Resources](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%205%20-%20Resources.md)
 
-[Get Started >>>](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%201%20-%20ArcGIS%20Field%20Maps%20-%20An%20Overview.md)  
-
-[Get Started >>>](https://jacobmswisher.github.io/ArcGIS-Field-Maps/Sections/Part 1 - ArcGIS Field Maps - An Overview.md)
+[Get Started >>>](https://github.com/jacobmswisher/ArcGIS-Field-Maps/blob/main/Sections/Part%201%20-%20ArcGIS%20Field%20Maps%20-%20An%20Overview.md)
